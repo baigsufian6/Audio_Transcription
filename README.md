@@ -1,5 +1,3 @@
-Here is the rewritten Speech-to-Text Application documentation, tailored for a README file with Markdown formatting, including `#` for headings and `*` for emphasis:
-
 # Speech-to-Text Application
 ==========================
 
