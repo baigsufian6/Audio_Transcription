@@ -71,8 +71,7 @@ Once the transcription is completed, the text is displayed in real-time on the i
 
 1. **Clone The Repository**
 	```bash
-	git clone https://github.com/your-username/your-repository-name.git
-	cd your-repository-name
+	git clone https://github.com/baigsufian6/Audio_Transcription.git
 	```
 2. **Install Dependencies**
 	```bash
